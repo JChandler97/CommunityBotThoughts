@@ -61,7 +61,7 @@ namespace CommunityThoughts {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 1290465865507450885-lcUWWB5gVDn5JtnvKEM8j1Lq9zeUnY.
+        ///   Looks up a localized string similar to --- .
         /// </summary>
         internal static string accessToken {
             get {
@@ -70,7 +70,7 @@ namespace CommunityThoughts {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to C7WNnYoJ16aZERSK1JWBJgPcwsIwSQSNeR4NfUbgSouTw.
+        ///   Looks up a localized string similar to --- .
         /// </summary>
         internal static string accessTokenSecret {
             get {
@@ -79,7 +79,7 @@ namespace CommunityThoughts {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to NzM5NTQ1NTcwNTM5OTk1MzE2.GY3JeA.qPcUOUEqF9qgXQV72Dk8oIHUtgScXt5JNbUv90.
+        ///   Looks up a localized string similar to --- .
         /// </summary>
         internal static string clientToken {
             get {
@@ -88,7 +88,7 @@ namespace CommunityThoughts {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to AKBRqhTJ5RPudxVux0RYvQHzR.
+        ///   Looks up a localized string similar to --- .
         /// </summary>
         internal static string consumerKey {
             get {
@@ -97,7 +97,7 @@ namespace CommunityThoughts {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to rCQil6S1Yn4umvDADow1cRe1M7lSCxngLJn58ppL0g4NQhUapl.
+        ///   Looks up a localized string similar to --- .
         /// </summary>
         internal static string consumerSecret {
             get {
